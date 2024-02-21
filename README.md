@@ -4,4 +4,4 @@
 
 ### Codigo de Kotlin
 
-![Kotlin](Codigo-ejecucion.png)
+![Codigo-Ejecucion](https://github.com/EduardoPacheco2003/Act1-Variables-Tipos-Kotlin/assets/100945554/440f1b02-8334-46a3-a79f-cfdfb16d8eab)
